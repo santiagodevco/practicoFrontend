@@ -1,0 +1,15 @@
+:root{
+    --sm: 14px;
+    --md: 16px;
+    --lg: 18px;
+    --white: #fff;
+    --black: #000;
+    --very-light-pink: #c7c7c7;
+    --text-input-field: #f7f7f7;
+    --hospital-green: #acd9b2;
+}
+
+body{
+    margin: 0;
+}
+
