@@ -9,3 +9,5 @@ editar datos.
 
 Ya se tienen los desktops con el diseño de css, ademas se agregaron
 los menus de desktop y mobile respectivamente.
+
+Se realizo orden en html y css ademas de la seccion de mis ordenes.
