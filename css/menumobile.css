@@ -1,0 +1,54 @@
+:root{
+    --sm: 14px;
+    --md: 16px;
+    --lg: 18px;
+    --white: #fff;
+    --black: #000;
+    --very-light-pink: #c7c7c7;
+    --text-input-field: #f7f7f7;
+    --hospital-green: #acd9b2;
+}
+
+body{
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.mobile-menu{
+    padding: 24px;
+}
+
+.mobile-menu a{
+    text-decoration: none;
+    color: var(--black);
+    font-weight: bold;
+}
+
+.mobile-menu ul{
+    padding: 0;
+    margin: 0;
+    margin-top: 24px;
+    list-style: none;
+}
+
+.mobile-menu ul:nth-child(1){
+    border-bottom: 1px solid var(--very-light-pink);
+}
+
+.mobile-menu ul:nth-child(2){
+    margin-bottom: 30px;
+}
+
+.mobile-menu ul li{
+    margin-bottom: 24px;
+}
+
+.mobile-menu .email{
+    font-weight: 300 !important;
+    font-size: var(--sm);
+}
+
+.sing-out{
+    color: var(--hospital-green) !important;
+    font-size: var(--sm);
+}
